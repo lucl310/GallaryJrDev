@@ -1,2 +1,2 @@
-# GallaryJrDev
+# GalleryJrDev
 insert text here
